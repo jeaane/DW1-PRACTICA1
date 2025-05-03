@@ -1,0 +1,21 @@
+div {
+    background-color: #fefefe;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 5px;
+}
+#body {
+    font-family: Bahnschrift, sans-serif;
+    color: #51510b;
+}
+.big-text {
+    font-size: 2em;
+    color: #5c1313;
+}
+.medium-text {
+    font-size: 1.5em;
+    color: #29ac55;
+}
+.main-title {
+    text-shadow: 0cm 0cm 2px #000000;
+}
